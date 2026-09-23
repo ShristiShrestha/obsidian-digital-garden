@@ -6,3 +6,4 @@
 
 # Allow files in CASN
 !CASN/**
+!CASN*.png
