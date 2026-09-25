@@ -12,4 +12,4 @@ title: CASN Meeting & Sprint Notes
 Mac Storage Optimization
 
 - [[Terminal Commands]]
-	- https://shristishrestha.github.io/Mac%20Storage%20Optimization/Terminal%20Commands
+	- https://shristishrestha.github.io/obsidian-digital-garden/Mac%20Storage%20Optimization/Terminal%20Commands
