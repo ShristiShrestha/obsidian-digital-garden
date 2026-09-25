@@ -3,7 +3,9 @@
 !.gitignore
 !.github/
 !CASN/
+!Mac\ Storage\ Optimization/
 
 # Allow files in CASN
 !CASN/**
+!Mac\ Storage\ Optimization/**
 !CASN*.png
