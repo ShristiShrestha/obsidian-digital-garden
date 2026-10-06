@@ -1,0 +1,6 @@
+- [ ] Design database framework
+	- [ ] Storage based
+	- [ ] SQL-based
+		- [ ] Table schemas
+		- [ ] DB cache
+		- [ ] DB views
