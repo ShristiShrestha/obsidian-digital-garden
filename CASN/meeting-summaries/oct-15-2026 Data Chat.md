@@ -41,11 +41,11 @@ participants: Shristi Shrestha, Summer Dann, Natalie Ray, Nash Mahmoud, Rachel V
 
 - Rachel has data from **Blanco institute**
 	- Data from degree completion. 
-	- Classification of instruction program (SIPS to SOCKS). Need for info on this. 
-	- SIP from the academic to SOCK is industry I think
+	- Classification of instruction program (CIP to SOC). Need for info on this. 
+	- SIP from the academic to CIP to SOC is industry I think
 	- https://www.laworks.net/LaborMarketInfo/LMI_OccAllProj.asp?years=20162026
 		- job occupations' growth in ten years (since 2024)
 	- Send `data access request` to her
 	 - https://blancocenter.louisiana.edu/about-us/center-staff
-
-
+	 - https://blancocenter.louisiana.edu/sites/blancocenter/files/Blanco%20Center%20-%20Linking%20Postsecondary%20Pathways%20-%202026.pdf
+		 - Read this report and check if we can use any of their data (non PI) and contact her to get the data. 
