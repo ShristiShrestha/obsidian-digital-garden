@@ -46,5 +46,6 @@ participants: Shristi Shrestha, Summer Dann, Natalie Ray, Nash Mahmoud, Rachel V
 	- https://www.laworks.net/LaborMarketInfo/LMI_OccAllProj.asp?years=20162026
 		- job occupations' growth in ten years (since 2024)
 	- Send `data access request` to her
+	 - https://blancocenter.louisiana.edu/about-us/center-staff
 
 
