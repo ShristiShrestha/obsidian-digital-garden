@@ -1,3 +1,9 @@
+---
+dg-publish: true
+title: CASN Meeting & Sprint Notes
+participants: Shristi Shrestha, Summer Dann, Natalie Ray, and CASN Board Members
+---
+
 > Capital Area STEM Network Center Advisory Committee
 > **9:00 AM - 10:30 AM, Oct 14, 2026 Wednesday**
 > [Regional Needs Assessement Board Brainstorming PPT](https://docs.google.com/presentation/d/1wgTJqkOWSCni9RGyP4W7HFKUbY6JZQQS3myT8kR-Cyo/edit?usp=sharing)

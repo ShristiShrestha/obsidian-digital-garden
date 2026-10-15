@@ -1,9 +1,11 @@
-
-> with **Rachel Veron**
+---
+dg-publish: true
+title: CASN Meeting & Sprint Notes
+participants: Shristi Shrestha, Summer Dann, Natalie Ray, Nash Mahmoud, Rachel Veron (Blanco Institute)
+---
+# Meeting pre-notes
 
 **Test dashboard:** https://casn-bfc18.web.app/
-
-# Meeting pre-notes
 
 - CTE enrollments at `/schools/cte-enrollments`
 	- Displays students' enrollment in different regions by different career clusters. You have to select a career cluster, for now, to see how different regions are doing within that cluster. 
